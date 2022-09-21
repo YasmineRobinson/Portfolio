@@ -4,7 +4,7 @@ This Portfolio is a small project using HTML / CSS and Bootsrap. I will be using
 [Live Heroku Deployment](https://portfolio-yasmine.herokuapp.com/)
 
 
- <img width="1080" alt="image" src="">
+ <img width="1080" alt="image" src="https://github.com/YasmineRobinson/Portfolio/blob/master/img/portfolio-screenshot.PNG">
 ## Technologies used
 
 * HTML
